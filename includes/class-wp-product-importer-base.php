@@ -36,7 +36,7 @@
  * Meta    : any column prefixed meta_ is stored as _{key} post meta
  * Taxonomy: any column prefixed tax_ triggers taxonomy term assignment
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  * @since   1.2.0
  */
 

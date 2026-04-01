@@ -2,7 +2,7 @@
 /**
  * WP-CLI Commands: wp-product import, wp-product import-table
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  * @since   1.0.0
  */
 

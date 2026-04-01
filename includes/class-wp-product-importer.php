@@ -7,7 +7,7 @@
  *
  * Supported delimiters: comma, tab, pipe, semicolon (auto-detected).
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  * @since   1.0.0
  */
 

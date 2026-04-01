@@ -2,7 +2,7 @@
 /**
  * Custom Post Type: wp-product
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  * @since   1.0.0
  */
 

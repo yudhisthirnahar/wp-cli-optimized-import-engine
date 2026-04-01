@@ -13,7 +13,7 @@
  * Text Domain:       wp-cli-optimized-import-engine
  * Domain Path:       /languages
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  */
 
 if ( ! defined( 'ABSPATH' ) ) {

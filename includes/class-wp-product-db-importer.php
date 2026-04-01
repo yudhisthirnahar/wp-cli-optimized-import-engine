@@ -56,7 +56,7 @@
  *   # Machine-readable output for scripting pipelines:
  *   wp wp-product import-table legacy_products --porcelain --path=/path/to/wordpress
  *
- * @package WP_Product_Importer
+ * @package WP_CLI_Optimized_Import_Engine
  * @since   1.2.0
  */
 
